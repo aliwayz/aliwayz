@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aliwayz
 - 👀 I’m interested in creative webdesign
-- 🌱 I’m currently working on my portfolio
 - 📫 How to reach me aliwayandcompany@gmail.com
 
 <!---
